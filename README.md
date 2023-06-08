@@ -15,9 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+---
+
+Languages & Tools:
+
 <div>
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg' width="40" height="40">
+  <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg' width="60" height="60">
+  <img src='https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg' width="60" height="60">
+  <img src='https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg' width="60" height="60">
+  <img src='https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original.svg' width="60" height="60">
+  <img src='https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg' width="60" height="60">
+  <img src='https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg' width="60" height="60">
+  <img src='https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg' width="60" height="60">
+<div>
   
-<div>
+---
   
   
