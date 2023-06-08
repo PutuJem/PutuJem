@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 
 <div>
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg'>
+  
+  .devicon-devicon-plain {
+  max-width: 2em;
+  }
 <div>
   
-.devicon-devicon-plain {
-  max-width: 2em;
-}  
+  
