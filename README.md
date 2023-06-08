@@ -1,10 +1,10 @@
 ### **Hello, I'm James**!
 
-- :airplane: I graduated in Aerospace Engineering and have 3 years experience as a Process engineer in the aviation industry. 
+- 💻 I am currently working as a Junior DevOps Engineer for Sparta Global. 
 
-- 🔭 I’m currently working as a Junior DevOps Engineer for Sparta Global. 
+- ✈️ I am an Aerospace Engineering graduate and have 3 years experience as a Process engineer in the aviation industry. 
 
-- 🌱 I’m currently learning Infrastructure as Code, in particular using tools such as ansible and terraform.
+- 🌱 I am currently learning Infrastructure as Code, in particular using tools such as ansible and terraform.
 
 - ⚡ Fun fact: I started running in early 2022 and since then, I have completed 6 half marathons and the London Marathon. 
 
