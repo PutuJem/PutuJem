@@ -9,13 +9,14 @@
 - ⚡ Fun fact: I started running in early 2022 and since then, I have completed 6 half marathons and the London Marathon. 
 
 - 📫 How to reach me: 
+
 [![Linkedin Badge](https://img.shields.io/badge/-James-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/james-wijaya-seekings-14097510b/)
 
 ---
 
 ### **Languages & Tools**:
 
-<div style="line-height:10px">
+<div>
   <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' width="60" height="60">
   <img src='https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg' width="60" height="60">
   <img src='https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg' width="60" height="60">
