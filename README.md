@@ -25,7 +25,7 @@
   <img src='https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg' width="60" height="60">
   <img src='https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg' width="60" height="60">
   <img src='https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg' width="60" height="60">
-  <img src='https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg' width="60" height="60">
+  <img src='https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg' width="60" height="60">
 <div>
   
 ---
