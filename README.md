@@ -1,6 +1,6 @@
 ### **Hello, I'm James**!
 
-- 💻 I am currently working as a Junior DevOps Engineer for Sparta Global. 
+- 💻 I am currently working as a Junior DevOps Engineer for the Home Office. 
 
 - ✈️ I am an Aerospace Engineering graduate and have 3 years experience as a Process engineer in the aviation industry. 
 
